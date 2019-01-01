@@ -73,15 +73,9 @@ date_formats:
 tinyletter:
   title:               Newsletter
   label:               Email
-  placeholder:         mail@example.com
+  placeholder:         qwertyaseo@yandex.ru
   button:              Subscribe
-  message:             |
-    Subscribe to my newsletter.
-    0
-    <!--form-->
-
-    Open `_data/strings.yml` to edit this text.
-    {:.faded}
+  message:             |Электропочта
 
 welcome:
   selected_projects:   Selected Projects
