@@ -1,5 +1,5 @@
 # This file contains meta data for various social media sites
-email:
+email: qwertyaseo@yandex.ru
   name: Email
   icon: icon-mail
   prepend: 'mailto:'
@@ -31,7 +31,7 @@ spotify:
   name: Spotify
   icon: icon-spotify
   prepend: "https://play.spotify.com/"
-telegram:
+telegram: 
   name: Telegram
   icon: icon-telegram
 twitter:
