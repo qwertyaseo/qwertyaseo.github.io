@@ -4,7 +4,7 @@
 author1:
   # Replace <...> with your own (remove the < >)
   name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  email:             <qwertyaseo@yandex.ru>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -68,7 +68,7 @@ author1:
 # Another author
 author2:
   name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  email:             <qwertyaseo@yandex.ru
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
