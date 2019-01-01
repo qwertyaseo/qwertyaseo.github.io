@@ -237,7 +237,7 @@ remote_theme: qwtel/hydejack@v8.1.0
 #   google:              <verification-id>
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
-#   yandex:              <verification-id>
+#   yandex:              <bf02b626a81dc480>
 
 # Used for Twitter cards
 # twitter:
