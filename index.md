@@ -1,4 +1,4 @@
 ---
-layout: hate
+layout: page
 menu: true
 ---
